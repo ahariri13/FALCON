@@ -19,3 +19,7 @@ hand, A is an NxN adjacency matrix describing the topology of a graph. To transf
 convolution operations to graph structures, neural networks assigned to encoders/decoders
 are replaced by graph convolutional networks inspired from [9]
 
+#Results
+
+![Sample Reconstruction](https://github.com/ahariri13/FALCON/rec1.png)
+![Sample Reconstruction2](https://github.com/ahariri13/FALCON/rec2.png)
