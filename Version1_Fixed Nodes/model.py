@@ -1,4 +1,5 @@
-### This file contains the encoder-decoder graph model to be used in the fixed nodes assumption. We try several Message Passing techniques along the way, in this case GraphSAGE.
+### This file contains the encoder-decoder graph model to be used in the fixed nodes assumption. 
+## We try several Message Passing techniques along the way, in this case GraphSAGE.
 
 import torch
 import torch.nn as nn
