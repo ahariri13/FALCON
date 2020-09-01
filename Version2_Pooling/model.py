@@ -21,7 +21,7 @@ from torch_geometric.utils.repeat import repeat
 
 class GraphPooling(nn.Module):
     def __init__(self,in_channels, out_channels1, out_channels2,out_channels3,out_channels4, out_channels5, dropout,batch_size):
-        super(AliPooling, self).__init__()   
+        super(GraphPooling, self).__init__()   
 
         self.batch_size=batch_size
         self.out_channels2=out_channels2
