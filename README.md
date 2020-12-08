@@ -24,3 +24,11 @@ are replaced by graph convolutional networks inspired from [9]
 ![Sample Reconstruction](https://github.com/ahariri13/FALCON/blob/master/rec1.PNG)
 
 ![Sample Reconstruction2](https://github.com/ahariri13/FALCON/blob/master/rec2.PNG)
+
+# Prerequisites 
+
+-PyTorch 1.6.0 and CUDA 10.1
+-Pytorch Geometric 
+
+# References 
+CMS Open Data Release: http://opendata.cern.ch
